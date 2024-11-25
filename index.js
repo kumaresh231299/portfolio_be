@@ -54,5 +54,5 @@ app.get('/', (req, res) => {
 
 //Listen
 app.listen(PORT, () => {
-    console.log("App is started and running on the port", PORT);
+    console.log("App is started and running on the port");
 })
